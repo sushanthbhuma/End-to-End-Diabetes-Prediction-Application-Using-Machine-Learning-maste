@@ -6,7 +6,7 @@
   * [Motivation](#motivation)
   * [Demo](#demo)
   * [Learning Objective](#Learning-Objective)
-  * [Technical Aspect](#technical-aspect)
+  * [Technical Aspect](#technical-aspects)
   * [Technologies Used](#technologies-used)
   * [To Do](#to-do)
   * [Installation](#installation)
