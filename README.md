@@ -1,6 +1,7 @@
 ## End-to-End Diabetes Prediction Application using Machine Learning (MINI Project)  
 
 
+
 ### Table of Content
   * [Overview](#overview)
   * [Motivation](#motivation)
